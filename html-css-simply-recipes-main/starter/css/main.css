@@ -279,3 +279,13 @@ nav-header{
 .nav-header img{
   width: 200px;
 }
+nav-btn{
+  padding: 0.15rem 0.75rem;
+}
+.nav-btn i {
+font-size: 1.25rem;
+}
+.nav.links{
+  display: flex;
+  flex-direction: column;
+}
