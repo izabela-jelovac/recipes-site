@@ -259,4 +259,10 @@ ul {
 Navbar
 ===============
 */
+.navbar{
 
+}
+.nav-center{
+  width: 90vW;
+  max-width: var(--max-width);
+}
