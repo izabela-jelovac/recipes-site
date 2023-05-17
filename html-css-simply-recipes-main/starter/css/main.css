@@ -260,9 +260,22 @@ Navbar
 ===============
 */
 .navbar{
-
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: blue;
 }
 .nav-center{
   width: 90vW;
   max-width: var(--max-width);
+  background-color: red;
+}
+nav-header{
+  height: 6rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-header img{
+  width: 200px;
 }
