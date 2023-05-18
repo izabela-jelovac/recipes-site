@@ -348,3 +348,14 @@ nav-logo{
   }
 
 }
+.page{
+  background: red;
+}
+.page-footer{
+  height: 4rem;
+  background: var(--black);
+  color: var(--white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
