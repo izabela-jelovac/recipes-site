@@ -350,6 +350,11 @@ nav-logo{
 }
 .page{
   background: red;
+  width: 90vW;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding-top: 2rem;
+  min-height: calc(100vh-(6rem + 4rem));
 }
 .page-footer{
   height: 4rem;
@@ -358,4 +363,10 @@ nav-logo{
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.page-footer p{
+  margin-bottom: 0;
+}
+.footer-logo{
+
 }
