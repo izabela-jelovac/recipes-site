@@ -371,3 +371,10 @@ nav-logo{
 .footer-logo, .page-footer a {
  color: var(--primary-500);
 }
+.hero{
+  height: 40vh;
+  background: url('../assets/main.jpeg') center/cover no-repeat;
+  margin-bottom: 2rem;
+  border-radius: var(--borderRadius);
+  position: relative;
+}
