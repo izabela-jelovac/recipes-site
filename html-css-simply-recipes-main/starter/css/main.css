@@ -417,3 +417,7 @@ nav-logo{
   gap: 2rem 1rem;
   padding-bottom: 3rem;
 }
+.tags-container h4 {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
