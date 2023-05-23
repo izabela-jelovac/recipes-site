@@ -400,3 +400,8 @@ nav-logo{
     margin-bottom: 0;
   }
 }
+.recipes-container{
+  display: grid;
+  gap: 2rem 1rem;
+  border: 2px solid red;
+}
