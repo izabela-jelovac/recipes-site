@@ -412,3 +412,8 @@ nav-logo{
   flex-direction: column;
   padding-bottom: 3rem;
 }
+.recipes-list{
+  display: grid;
+  gap: 2rem 1rem;
+  padding-bottom: 3rem;
+}
